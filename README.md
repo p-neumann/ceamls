@@ -1,9 +1,9 @@
-# Quantum research
-## local files on Dropbox / Websites /  trustworthyai
+
+## local files on Dropbox / Websites / ceamls
 ## edit tool: vscode
 ## Commit
 ## Push (force)
-## URL: https://p-neumann.github.io/trustworthyai/
+## URL: https://p-neumann.github.io/ceamls/
 #
 ## 
 ## Project Description
